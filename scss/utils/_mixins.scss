@@ -1,0 +1,14 @@
+@mixin bd-radius($value :8px){
+-moz-border-radius:$value;
+-webkit-border-radius:$value;
+border-radius:$value;
+}
+
+
+  @mixin background-size($cover :cover){
+    -moz-background-size:$cover;
+    -webkit-background-size:$cover;
+    background-size:$cover;
+    }  
+
+ 

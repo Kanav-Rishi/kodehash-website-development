@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="57.4" height="36" viewBox="0 0 57.4 36">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="1.5" y="1.5" width="54.4" height="33"/>
+  <g id="arrow">
+    <path id="Path_35" data-name="Path 35" class="cls-2" d="m33,18c0,8.3-6.7,15-15,15S3,26.3,3,18,9.7,3,18,3s15,6.7,15,15Z"/>
+    <path id="Path_36" data-name="Path 36" class="cls-2" d="m18,24l6-6-6-6"/>
+    <path id="Path_37" data-name="Path 37" class="cls-2" d="m12,18h12"/>
+  </g>
+</svg>

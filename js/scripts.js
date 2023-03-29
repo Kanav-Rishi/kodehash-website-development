@@ -1,0 +1,1 @@
+$(".fet-prodject-slider").slick({slidesToShow:1,slidesToScroll:1,autoplay:!0,autoplaySpeed:12e3,mobileFirst:!0,arrows:!0,responsive:[{breakpoint:767,settings:{slidesToShow:2}}]});

@@ -1,0 +1,8 @@
+.footer{color: $primary-white;  display:flex; justify-content: space-between; padding:20px 0;
+
+  &--left{
+    a{color: $primary-white; padding:0 5px;}
+  }
+  &--right{ font-size: 14px; color:$gray-800;}
+}
+footer{background: $gray-900;}

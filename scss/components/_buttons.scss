@@ -1,0 +1,23 @@
+.b-btn{height:60px;
+				 line-height:60px; 
+				display:inline-block; 
+				 border:none; font-size:1.375rem;
+				 color:$primary-black;
+				 @include bd-radius(100px); color: $primary-white;
+			 
+				padding:0 15px 0 35px;
+				background-image: linear-gradient(to left top, #d5aaff, #b1b2ff, #87baff, #57c0ff, #00c4ff);
+				transition: 0.5s;
+				i{ margin-left:20px;}
+			&:hover{ border-color: $primary-white; 
+				background-image: linear-gradient(to left top, #00c4ff, #57c0ff, #87baff, #b1b2ff, #d5aaff);
+				color: $primary-white;
+				
+			}			 				
+			}
+.submit{ width: 200px !important; background: url(../image/arrow-submit.svg) right 12px no-repeat $primary-black !important; padding-right: 70px !important;
+&:hover{background: url(../image/arrow-submit.svg) right 12px no-repeat  $primary-black !important;}
+}
+
+		 		
+
